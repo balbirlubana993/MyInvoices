@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyInvoices</string>
+    <string-array name="tutor_array">
+        <item>Clothes</item>
+        <item>Home</item>
+
+        <item>Stationery</item>
+
+        <item>Electronics</item>
+
+    </string-array>
+</resources>
